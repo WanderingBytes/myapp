@@ -19,19 +19,17 @@
 
 ## CI/CD
 - [x] GitHub Actions workflow for debug APK builds
-- [ ] Firebase project created
-- [ ] Firebase App Distribution configured
-- [ ] Service account key added as GitHub secret
-- [ ] Firebase App ID added as GitHub secret
+- [x] Firebase project created (myapp-66fb1)
+- [x] Firebase App Distribution configured
+- [x] Service account key added as GitHub secret
+- [x] Firebase App ID added as GitHub secret
+- [x] APK uploads to Firebase on every push to main
 
 ## Features
 - [x] Basic Compose scaffold with greeting screen
 
 ## Known Issues
-- None yet (fresh project)
+- None
 
 ## Next Steps
-1. Push initial commit and verify Actions build succeeds
-2. Set up Firebase project and App Distribution
-3. Uncomment Firebase upload step in workflow
-4. Start building actual app features
+1. Start building actual app features
